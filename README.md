@@ -1,2 +1,2 @@
 # NovelBox
-A MERN Stack book store website.
+NovelBox is a modern and user-friendly bookstore app that brings the joy of reading to your fingertips. Explore a vast collection of books across various genres, discover new favorites, and enjoy personalized recommendations. With a sleek design and easy navigation, BookNook offers features like a wishlist, secure checkout, and user reviews. Whether you're looking for the latest bestsellers or timeless classics, BookNook is your perfect companion for all things literary.
