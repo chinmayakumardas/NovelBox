@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "The Adventures of Tom Sawyer",
+        "title": "Mark Twain's Classic",
+        "price": 15.99,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-charles-dickens-illustration_23-2150961375.jpg?ga=GA1.1.1151685215.1723104124&semt=ais_hybrid"
+    },
+    {
+        "id": 2,
+        "name": "The Comedy of Errors",
+        "title": "Shakespeare's Comedy",
+        "price": 12.50,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/404-error-web-template-with-windmill-flat-style_23-2147781028.jpg?ga=GA1.1.1151685215.1723104124&semt=ais_hybrid"
+    },
+    {
+        "id": 3,
+        "name": "The Art of War",
+        "title": "Sun Tzu's Strategy",
+        "price": 10.00,
+        "category": "Strategy",
+        "image": "https://img.freepik.com/premium-photo/poster-man-with-shirt-that-says-war-it_869640-182944.jpg?ga=GA1.1.1151685215.1723104124&semt=ais_hybrid"
+    },
+    {
+        "id": 4,
+        "name": "The Music of Silence",
+        "title": "Composing with the Soul",
+        "price": 20.00,
+        "category": "Music",
+        "image": "https://m.media-amazon.com/images/I/91bIXrh+X2L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Rich Dad Poor Dad",
+        "title": "Robert Kiyosaki's Finance Guide",
+        "price": 18.99,
+        "category": "free",
+        "image": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY445_SX342_.jpg"
+    },
+    {
+        "id": 6,
+        "name": "The Science of Cooking",
+        "title": "Gastronomy Explained",
+        "price": 25.00,
+        "category": "Cooking",
+        "image": "https://m.media-amazon.com/images/I/81nmP-TRL9L._SY466_.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cosmos",
+        "title": "Carl Sagan's Space Exploration",
+        "price": 22.50,
+        "category": "Science",
+        "image": "https://5.imimg.com/data5/LN/IL/GLADMIN-36176544/cosmos-book-1000x1000.png"
+    },
+    {
+        "id": 8,
+        "name": "The History of Time",
+        "title": "Stephen Hawking's Masterpiece",
+        "price": 17.99,
+        "category": "History",
+        "image": "https://m.media-amazon.com/images/I/51SWYYvk+KL._SY445_SX342_.jpg"
+    },
+    {
+        "id": 9,
+        "name": "The Psychology of Happiness",
+        "title": "Understanding Human Behavior",
+        "price": 14.75,
+        "category": "Psychology",
+        "image": "https://m.media-amazon.com/images/I/41C6eKrng5L._SY445_SX342_.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Yoga for Life",
+        "title": "Mind and Body Harmony",
+        "price": 19.99,
+        "category": "free",
+        "image": "https://m.media-amazon.com/images/I/61zo-KAbS8L._SY466_.jpg"
+    }
+]
